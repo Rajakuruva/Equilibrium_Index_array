@@ -40,7 +40,7 @@ There are multiple points where left and right sums are equal.
 
 ---
 
-## ✅ Approach 1 — Brute Force (O(n²))
+## Approach 1 — Brute Force (O(n²))
 
 ```python
 def equilibrium_index_array(array):
